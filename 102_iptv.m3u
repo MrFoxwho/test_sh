@@ -70,7 +70,7 @@ http://192.168.3.211:4022/udp/239.45.1.17:5140
 #EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="http://kbs17.cn:2232/data/icon/电视指南.png" group-title="﻿央视频道",CCTV电视指南
 http://192.168.3.211:4022/udp/239.45.1.73:5140
 #EXTINF:-1 tvg-name="上视新闻" tvg-logo="http://kbs17.cn:2232/data/icon/上视新闻.png" group-title="本市频道",上视新闻
-http://192.168.3.211:4022/udp/239.45.3.209:5140
+http://192.168.3.211:4022/udp/233.18.204.57:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://kbs17.cn:2232/data/icon/东方卫视.png" group-title="本市频道",东方卫视
 http://192.168.3.211:4022/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://kbs17.cn:2232/data/icon/东方卫视.png" group-title="本市频道",东方卫视4K
