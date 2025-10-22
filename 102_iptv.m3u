@@ -80,7 +80,7 @@ http://192.168.3.211:4022/udp/239.45.3.236:5140
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实.png" group-title="本市频道",上海纪实
 http://192.168.3.211:4022/udp/239.45.3.212:5140
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="http://kbs17.cn:2232/data/icon/东方影视.png" group-title="本市频道",东方影视
-http://192.168.3.211:4022/udp/239.45.3.237:5140
+http://192.168.3.211:4022/udp/233.18.204.55:5140
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="http://kbs17.cn:2232/data/icon/第一财经.png" group-title="本市频道",第一财经
 http://192.168.3.211:4022/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="http://kbs17.cn:2232/data/icon/东方财经.png" group-title="本市频道",东方财经
